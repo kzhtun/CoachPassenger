@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "805396251625",
+    "firebase_url": "https://coachpassenger.firebaseio.com",
+    "project_id": "coachpassenger",
+    "storage_bucket": "coachpassenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805396251625:android:fa49d20819216e50",
+        "android_client_info": {
+          "package_name": "com.info121.coachpassenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805396251625-t7cdekg5r9dflv8ikp81il42of4sf60m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzZ1sHKMcaEl1fIVZZv5BS2D99oO5BolI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
